@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there :sunglasses:
 
-<!--
-**joaovitorcunha123/joaovitorcunha123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o João Vitor, sou  Programador Front End., Atualmente estou aprendendo e criando projetos com:
 
-Here are some ideas to get you started:
+ - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ 
+ - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white width:1px ">
+ 
+ - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+inicio o aprendizado em ReactJs. Futuramente pretendo me especializar totalmente no Full-Stack e ser um programador por completo.
+
+
+<h2> <strong>Connect with me:</strong><h2> 
+ <a href="https://www.linkedin.com/in/joao-cunha123" target="_blank" rel="extern">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+                
+ <a href="https://instagram.com/joaocunhabc?igshid=ZDdkNTZiNTM=" target="_blank" rel="extern">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ </a>
+ <br>
+ <br>
+ <br>
+ <br>
+ 
+ [![João stats](https://github-readme-stats.vercel.app/api?username=joaovitorcunha123)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorcunha123)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
